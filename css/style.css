@@ -77,6 +77,21 @@
 	 color: green;
 }
 
+.button.resume-button {
+  background-color: #343a40 !important;
+  color: white !important;
+}
+
+.button.email-button {
+  background-color: #17a2b8 !important;
+  color: white !important;
+}
+
+.button.website-button {
+  background-color: #3498db !important;
+  color: white !important;
+}
+
 .email-button {
 	 color: blue;
 }
